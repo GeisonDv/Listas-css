@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="YOUR_LOGO_URL" alt="Listas" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+Listas Css
 </h1>
 
 <p align="center">A little description about your project</p>
